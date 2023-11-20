@@ -67,8 +67,11 @@
 }
 
 #subscribe{
-    height: 200px;
+    height: 400px;
 }
 #subscribe h6{
     color: gray;
+}
+footer{
+    text-align: center;
 }
